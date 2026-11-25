@@ -1,5 +1,5 @@
 # 19xx - M7800 - Intercom.jpg
-Wiki page: [M7800](../../../PAGES/M7800.md)
+Wiki page: [M7800](../../../../PAGES/M7800.md)
 
 
 - **Year:** unknown (unknown)
@@ -33,7 +33,7 @@ SENS
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M7800/19xx - M7800 - Intercom.jpg",
+ "file": "Modules/COMMUNICATION/M7800/PHOTOS/19xx - M7800 - Intercom.jpg",
  "sha256": "7160b75aec76c186a8e4ae333b57726e75fa61cac3205e513839e20d0d773ced",
  "kind": "module",
  "models": [
