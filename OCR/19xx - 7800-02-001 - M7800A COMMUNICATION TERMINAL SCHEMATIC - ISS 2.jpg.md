@@ -33,7 +33,7 @@ Communication terminal schematic Title block at bottom left reading sideways.
 - **Dots (junctions):** 4
 - **Wiring (first pass):** 150 connected wire groups from 1,674 runs, 4 dotted junctions
 
-Every curve, box, word and wire group: [19xx - 7800-02-001 - M7800A COMMUNICATION TERMINAL SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%207800-02-001%20-%20M7800A%20COMMUNICATION%20TERMINAL%20SCHEMATIC%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 7800-02-001 - M7800A COMMUNICATION TERMINAL SCHEMATIC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 7800-02-001 - M7800A COMMUNICATION TERMINAL SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%207800-02-001%20-%20M7800A%20COMMUNICATION%20TERMINAL%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 7800-02-001 - M7800A COMMUNICATION TERMINAL SCHEMATIC - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -31,7 +31,7 @@ Communication terminal front and rear layout Title block at bottom left reading 
 - **Closed boxes:** 37
 - **Dots (junctions):** 5
 
-Every curve, box, word and wire group: [19xx - 7800-04-001 - M7800A COMMUNICATION TERMINAL FRONT & REAR LAYOUT - ISS 3 (traced).json](../MECHANICAL/19xx%20-%207800-04-001%20-%20M7800A%20COMMUNICATION%20TERMINAL%20FRONT%20%26%20REAR%20LAYOUT%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 7800-04-001 - M7800A COMMUNICATION TERMINAL FRONT & REAR LAYOUT - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 7800-04-001 - M7800A COMMUNICATION TERMINAL FRONT & REAR LAYOUT - ISS 3 (traced).json](../MECHANICAL/19xx%20-%207800-04-001%20-%20M7800A%20COMMUNICATION%20TERMINAL%20FRONT%20%26%20REAR%20LAYOUT%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 7800-04-001 - M7800A COMMUNICATION TERMINAL FRONT & REAR LAYOUT - ISS 3 (traced).dxf`).
 
 ## Full text
 

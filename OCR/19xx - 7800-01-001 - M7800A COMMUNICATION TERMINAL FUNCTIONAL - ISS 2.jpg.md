@@ -33,7 +33,7 @@ Communication terminal functional Title block at bottom left reading sideways.
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 288 connected wire groups from 1,499 runs
 
-Every curve, box, word and wire group: [19xx - 7800-01-001 - M7800A COMMUNICATION TERMINAL FUNCTIONAL - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%207800-01-001%20-%20M7800A%20COMMUNICATION%20TERMINAL%20FUNCTIONAL%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 7800-01-001 - M7800A COMMUNICATION TERMINAL FUNCTIONAL - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 7800-01-001 - M7800A COMMUNICATION TERMINAL FUNCTIONAL - ISS 2 (traced).json](../SCHEMATICS/19xx%20-%207800-01-001%20-%20M7800A%20COMMUNICATION%20TERMINAL%20FUNCTIONAL%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 7800-01-001 - M7800A COMMUNICATION TERMINAL FUNCTIONAL - ISS 2 (traced).dxf`).
 
 ## Full text
 
