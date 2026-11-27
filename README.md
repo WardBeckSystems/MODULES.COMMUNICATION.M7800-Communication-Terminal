@@ -27,6 +27,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `19xx - 7800-04-001 - M7800A COMMUNICATION TERMINAL FRONT & REAR LAYOUT - ISS 3.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M7800.stl`](MECHANICAL/M7800.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M7800)
+
+- **Size:** 41 × 217.31 mm panel, 165 mm deep, 3.2 mm plate (assumed 41 mm wide (1.6"), the drawn panel's proportions)
+- **From the drawing:** 14 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M7800 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M7800.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
