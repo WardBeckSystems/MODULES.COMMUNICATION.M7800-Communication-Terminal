@@ -1,5 +1,5 @@
 # 19xx - 7800-02-001 - M7800A COMMUNICATION TERMINAL SCHEMATIC - ISS 2.jpg
-Wiki page: [M7800](../../../../PAGES/M7800.md)
+Wiki page: [M7800](../)
 
 
 - **Year:** unknown (title block (read by eye))

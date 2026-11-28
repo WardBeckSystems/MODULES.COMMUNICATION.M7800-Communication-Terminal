@@ -1,5 +1,5 @@
 # 19xx - 7800-04-001 - M7800A COMMUNICATION TERMINAL FRONT & REAR LAYOUT - ISS 3.jpg
-Wiki page: [M7800](../../../../PAGES/M7800.md)
+Wiki page: [M7800](../)
 
 
 - **Year:** unknown (title block (read by eye))

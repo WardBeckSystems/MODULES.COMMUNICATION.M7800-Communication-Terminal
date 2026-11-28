@@ -1,6 +1,6 @@
 # M7800 Communication Terminal · Communication
 
-Ward-Beck Systems M7800. Wiki page: [M7800 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7800.html)
+Ward-Beck Systems M7800. Wiki page: [M7800 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7800-Communication-Terminal/)
 
 | Folder | What is in it | Files |
 |---|---|---|

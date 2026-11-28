@@ -1,5 +1,5 @@
 # 19xx - M7800 - Intercom.jpg
-Wiki page: [M7800](../../../../PAGES/M7800.md)
+Wiki page: [M7800](../)
 
 
 - **Year:** unknown (unknown)
